@@ -1,1 +1,1 @@
-# electonic-circuit-education
+# electronic-circuit-education
